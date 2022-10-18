@@ -1,4 +1,4 @@
-# docker-whale
+# simple-docker-whale
 
 Run me : `docker run -p80:80 wellingtonideao/whale-example`
 
